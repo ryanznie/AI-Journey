@@ -4,6 +4,7 @@ Tracking progress in AI research and my journey as a student.
 ## Interesting papers I've read
 
 **Pre-Attention**
+* [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546) - Word2Vec (2013)
 * [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) (2014)
 * [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) (2014)
 

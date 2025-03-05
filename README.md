@@ -1,7 +1,10 @@
 # AI-Journey
-Tracking progress in AI research and my journey as a student.
+Tracking progress in AI research and my journey as a student. Thank you to my teachers and mentors.
 
 ## Interesting papers I've read
+
+**My interest in ML began here**
+* [A high-bias, low-variance introduction to Machine Learning for physicists](https://arxiv.org/abs/1803.08823)
 
 **Pre-Attention**
 * [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546) - Word2Vec (2013)
@@ -9,10 +12,10 @@ Tracking progress in AI research and my journey as a student.
 * [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) (2014)
 
 **2017**
-* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) - Transformers
 
 **2018**
-* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) - BERT
 
 **2019**
 * [Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask) - GPT2
@@ -23,6 +26,7 @@ Tracking progress in AI research and my journey as a student.
 
 **2021**
 * [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601v4)
+* [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) - LoRa 
 
 **2023**
 * [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf) - CoT
@@ -42,6 +46,7 @@ Tracking progress in AI research and my journey as a student.
 * Pika, Figure AI, DBRX, Anthropic's Claude 3 Opus
 * [KAN: Kolmogorov–Arnold Networks](https://arxiv.org/pdf/2404.19756)
 * Nobel Prize in Physics: John J. Hopfield and Geoffrey Hinton “for foundational discoveries and inventions that enable machine learning with artificial neural networks”
+* [OpenAI models on ARC-AGI](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 
 **2025**
 * [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)

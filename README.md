@@ -32,9 +32,9 @@ Tracking progress in AI research and my journey as a student. Thank you to my te
 
 **2022**
 * [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903) - CoT
+* [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629) - ReAct
 
 **2023**
-* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf) - CoT
 * [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/pdf/2308.08155.pdf)
 * [Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation](https://paperswithcode.com/paper/self-taught-optimizer-stop-recursively-self)
 * [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf) - Smallville

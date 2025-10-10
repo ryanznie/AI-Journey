@@ -60,4 +60,6 @@ Tracking progress in AI research and my journey as a student. Thank you to my te
 * [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
 * [(VIDEO) Andrej Karpathy -- How I Use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 * Claude Sonnet 3.7, Grok 3, DeepSeek R1, GPT-4o, as of March 2025
+* [[Thinking Machines] - Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
+* [[Thinking Machines] - LoRA Without Regret](https://thinkingmachines.ai/blog/lora/)
 

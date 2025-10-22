@@ -20,6 +20,9 @@ Tracking progress in AI research and my journey as a student. Thank you to my te
 
 **2019**
 * [Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask) - GPT2
+* [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751)
+
+QLoRA
 
 **2020**
 * [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - GPT3
